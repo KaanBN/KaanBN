@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kaanbinen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaanbinen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11446219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11446219" height="30" width="40" /></a>
-<a href="https://medium.com/@kaan_binen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaan_binen" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kaan_mlnym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaan_mlnym" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naber" height="30" width="40" /></a>
+<a href="https://twitter.com/kaanbinen" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/twitter.svg" alt="kaanbinen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11446219" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/stack-overflow.svg" alt="11446219" height="30" width="40" /></a>
+<a href="https://medium.com/@kaan_binen" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/medium.svg" alt="@kaan_binen" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kaan_mlnym" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/hacker-rank.svg" alt="kaan_mlnym" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/naber" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/leetcode.svg" alt="naber" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
