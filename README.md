@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **kaan_binen@hotmail.com**
 
-- ⚡ Fun fact **I love games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +24,3 @@
 
 <h3 align="left">Languages and Tools I use:</h3>
 <p align="left"><img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/android.svg" title="Android" alt="android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/c.svg" alt="c" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/flutter.svg" title="Flutter" alt="flutter" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/laravel.svg" alt="laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/php.svg" title="PHP" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/postman.svg" title="Postman" alt="postman" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/python.svg" title="Python" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/selenium.svg" title="Selenium" alt="selenium" width="40" height="40"/></p>
-
-
-<br>
-<p>Like I said I love games you can also reach me on steam</p> <a href="https://steamcommunity.com/id/EpicGreifer"><img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/steam.svg"  alt="selenium" width="30" height="30"/></a>
