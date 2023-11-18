@@ -17,8 +17,6 @@
 <a href="https://www.leetcode.com/naber" target="blank"><img align="center" src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/leetcode.svg" alt="naber" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">I love working with:</h3>
-<p align="left"><img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/python.svg" title="Python" width="40" height="40"/></p>
 
 <h3 align="left">I am learning:</h3><p><img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/android.svg" title="Android" alt="android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/flutter.svg" title="Flutter" alt="flutter" width="40" height="40"/><img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/laravel.svg" title="Laravel" alt="laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/KaanBN/profile-icons/main/php.svg" title="PHP" alt="php" width="40" height="40"/></p>
 
