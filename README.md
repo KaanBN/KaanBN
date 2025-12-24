@@ -1,7 +1,4 @@
 <h1 align="center">Kaan Binen</h1>
-<h3 align="center">Developer</h3>
-
-<p align="left"> <a href="https://twitter.com/kaanbinen" target="blank"><img src="https://img.shields.io/twitter/follow/kaanbinen?logo=twitter&style=for-the-badge" alt="kaanbinen" /></a> </p>
 
 - 📫 How to reach me **kaan_binen@hotmail.com**
 
